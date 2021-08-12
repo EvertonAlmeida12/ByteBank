@@ -1,0 +1,16 @@
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\ByteBank\02-BiteBank\bin\Debug\net5.0\02-BiteBank.exe
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\ByteBank\02-BiteBank\bin\Debug\net5.0\02-BiteBank.deps.json
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\ByteBank\02-BiteBank\bin\Debug\net5.0\02-BiteBank.runtimeconfig.json
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\ByteBank\02-BiteBank\bin\Debug\net5.0\02-BiteBank.runtimeconfig.dev.json
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\ByteBank\02-BiteBank\bin\Debug\net5.0\02-BiteBank.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\ByteBank\02-BiteBank\bin\Debug\net5.0\ref\02-BiteBank.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\ByteBank\02-BiteBank\bin\Debug\net5.0\02-BiteBank.pdb
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\ByteBank\02-BiteBank\obj\Debug\net5.0\02-BiteBank.csprojAssemblyReference.cache
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\ByteBank\02-BiteBank\obj\Debug\net5.0\02-BiteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\ByteBank\02-BiteBank\obj\Debug\net5.0\02-BiteBank.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\ByteBank\02-BiteBank\obj\Debug\net5.0\02-BiteBank.AssemblyInfo.cs
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\ByteBank\02-BiteBank\obj\Debug\net5.0\02-BiteBank.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\ByteBank\02-BiteBank\obj\Debug\net5.0\02-BiteBank.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\ByteBank\02-BiteBank\obj\Debug\net5.0\ref\02-BiteBank.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\ByteBank\02-BiteBank\obj\Debug\net5.0\02-BiteBank.pdb
+C:\Users\WINDOWS 8.1\Documents\TI\Alura\CSharp\ByteBank\02-BiteBank\obj\Debug\net5.0\02-BiteBank.genruntimeconfig.cache
